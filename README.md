@@ -22,29 +22,11 @@ The dataset includes the following columns:
 
 ## Distribution Analysis of the customer data
 
-<table>
-  <tr>
-    <td>
-      <img src="Images/AgeDist_.png" width="300" alt="Customer Ages">
-    </td>
-    <td>
-      <img src="Images/IncomeDist_.png" width="300" alt="Annual Income">
-    </td>
-    <td>
-      <img src="Images/SpendingDist_.png" width="300" alt="Spending Score (1-100)">
-    </td>
-  </tr>
-</table>
-
-### Analysis
-
-The visuals reveals the distribution of three key customer metrics. The visualizations used were **Histograms with Kernel Density Estimates (KDE)**.
-
-| Metric | Key Takeaway | Distribution Shape |
-| :--- | :--- | :--- |
-| **Age** | The customer base is dominated by **Young Adults (25-40)**, with a secondary, smaller segment of middle-aged customers (45-55). | Mostly Bimodal |
-| **Annual Income (k\$)** | The majority of customers fall into a **mid-income bracket** ($50k to $80k). | Right-Skewed |
-| **Spending Score (1-100)** | Most customers exhibit an **average spending pattern**, clustering between 40 and 70. | Near-Normal |
+| Metric | Key Takeaway | 
+| :--- | :--- | 
+| **Age** | The customer base is dominated by **Young Adults (25-40)**, with a secondary, smaller segment of middle-aged customers (45-55). | 
+| **Annual Income (k\$)** | The majority of customers fall into a **mid-income bracket** ($50k to $80k). | 
+| **Spending Score (1-100)** | Most customers exhibit an **average spending pattern**, clustering between 40 and 70. |
 
 The data indicates a customer base primarily composed of **mid-income young adults** with average spending habits. This pattern suggests the need for **customer segmentation** to identify outliers and higher-value groups.
 
