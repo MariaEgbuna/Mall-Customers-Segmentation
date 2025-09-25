@@ -1,5 +1,3 @@
-# Mall Customers Analysis
-
 This project uses Python to analyze a customer dataset from a mall.
 
 ## Dataset
