@@ -54,18 +54,12 @@ The data indicates a customer base primarily composed of **mid-income young adul
 
 <table>
   <tr>
-  <td>
-      <img src="Images/GenderPie.png" width="400" alt="Customer Ages">
-    </td>
-    <td>
-      <img src="Images/GenderAgeDist_.png" width="400" alt="Customer Ages">
-    </td>
-    <td>
-      <img src="Images/GenderIncomeDist_.png" width="400" alt="Annual Income">
-    </td>
-    <td>
-      <img src="Images/GenderSpendingDist_.png" width="400" alt="Spending Score (1-100)">
-    </td>
+    <td><img src="Images/GenderPie.png" width="400" alt="Customer Ages"></td>
+    <td><img src="Images/GenderAgeDist_.png" width="400" alt="Customer Ages"></td>
+  </tr>
+  <tr>
+    <td><img src="Images/GenderIncomeDist_.png" width="400" alt="Annual Income"></td>
+    <td><img src="Images/GenderSpendingDist_.png" width="400" alt="Spending Score (1-100)"></td>
   </tr>
 </table>
 
@@ -103,7 +97,7 @@ This scatter plot is the foundation for customer segmentation, revealing **five 
 ## Correlation Matrix of Customer Features
 
 ![Correlation Matrix](Images/CorrelationMatrix.png)
-![Heatmap of the matrix](Images/HeatMapCorrelationMatrix.png)
+<img src="Images/HeatMapCorrelationMatrix.png" width="700" alt="Heatmap of the Correlation Matrix">
 
 ### Feature Correlation Matrix Summary
 
