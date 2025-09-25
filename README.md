@@ -127,7 +127,7 @@ The initial stages established key market structure:
       <img src="Images/Clusters.png" width="400" alt="Customer Ages">
     </td>
     <td>
-      <img src="Images/Clusters2.png" width="400" alt="Spending Score (1-100)">
+      <img src="Images/BivariantCluster.png" width="400" alt="Spending Score (1-100)">
     </td>
   </tr>
 </table>
