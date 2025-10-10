@@ -142,6 +142,9 @@ The organization should utilize the **$K=4$ or $K=5$ clusters** to immediately t
 
 ---
 **Author:** *Maria Egbuna*
+
 **Project:** *Mall Customers Segregation Analysis*
+
 **License:** *MIT License*
+
 **Date:** *September 27, 2025*
