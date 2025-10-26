@@ -141,10 +141,7 @@ The analysis confirms the Mall Customers dataset is **highly suitable for action
 The organization should utilize the **$K=4$ or $K=5$ clusters** to immediately tailor marketing efforts, product development, and store layout to the specific needs and spending patterns of each identified customer segment.
 
 ---
-**Author:** *Maria Egbuna*
-
-**Project:** *Mall Customers Segregation Analysis*
-
-**License:** *MIT License*
-
-**Date:** *September 27, 2025*
+**Author:** *Maria Egbuna*  
+**Project:** *Mall Customers Segregation Analysis*  
+**License:** *MIT License*  
+**Date:** *September 27, 2025*  
